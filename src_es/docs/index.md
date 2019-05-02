@@ -89,8 +89,8 @@ revisa la serie de videos
 
 Quizas también encuentres estos documentos útiles:
 
-* [Usiando paquetes](/docs/development/packages-and-plugins/using-packages)
+* [Usando paquetes](/docs/development/packages-and-plugins/using-packages)
 * [Añadir assets e imágenes](/docs/development/ui/assets-and-images)
-* [Navigación y rutas](/docs/development/ui/navigation)
+* [Navegación y rutas](/docs/development/ui/navigation)
 * [Manejo de estados](/docs/development/data-and-backend/state-mgmt/intro)
 * [Animaciones](/docs/development/ui/animations)
